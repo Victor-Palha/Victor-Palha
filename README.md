@@ -1,76 +1,85 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
+# Victor Palha | FullStack Developer
 
-<img width=100% src="./.github/assets/banner.png"/>
+<img width=100% src="./.github/assets/banner2.png" alt="Cosmic Code Banner"/>
 
-<div align='center'>
+## **Tech Explorer & Code Alchemist**
+Blending creativity with logic to craft digital experiences that matter. Passionate about functional programming, performance optimization, and clean architecture.
 
-<div align="center">  
+<div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victor-palha&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-palha&show_icons=true&count_private=true&title_color=5bffff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=1A1F27)
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-palha&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-palha&layout=compact&title_color=5bffff&text_color=fff&bg_color=0d1117&border_radius=12&border_color=1A1F27)
   
-</div>
-
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<div><br />
+## 🔮 **My Tech Grimoire**
 
-## Technologies that I use in my everyday:
+### **Daily Spells (Core Stack)**
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<!-- Elixir Ecosystem -->
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="Elixir" title="Elixir" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" alt="Phoenix" title="Phoenix Framework" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" alt="Erlang" title="Erlang (Elixir runs on the BEAM VM)" />
 
-<br />
+<!-- Java Ecosystem -->
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring Framework" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" title="Apache Maven" />
 
-  <div>
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
-    <img height='60' src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height='60' src='https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png' />
-    <img height='60' src='https://raw.githubusercontent.com/github/explore/d236cc6153f7ab3e68694234be43003b74cfe151/topics/fastify/fastify.png' />
-     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  </div>
+<!-- JS/TS Ecosystem -->
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="Fastify" title="Fastify" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
+<img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+
 </div>
 
-<div><br />
-
-## Complementary technologies:
-
-<br />
- <div>
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  </div>
+### **Supporting Tools**
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img height='60' src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="Tailwind CSS" />
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
-<br /><br />
+<br/>
 
-## 🧡 About me:
+## **Dev Character sheet**
+```elixir
+%Developer{
+  name: "Victor Palha",
+  title: "FullStack Sorcerer",
+  education: ["BSc in Computer Science", "MBA in Software Engineering"],
+  current_quest: "Freelance Adventures",
+  next_level: "Elixir Archmage",
+  traits: [:curious, :sarcastic],
+  hobbies: [:gaming, :writing, :open_source],
+  superpower: "Transforming coffee into clean code"
+}
+```
 
-👋 Hello! My name is Victor Palha, and I am a FullStack Developer with a degree in Computer Science. I've gained valuable experience working in companies and now I’m currently freelancing. <br /> 
-🧠 My journey in Web programming began in 2021, and since then, I’ve been driven by a passion for technology and innovation. My long-term goal is to grow professionally and eventually become a Senior Developer.<br /> 
-🧑‍💻 I work mainly with Javascript/Typescript, React, TailwindCSS, NodeJS, Prisma, Fastify, and Express. <br />
-🧑🏻 I believe in being respectful and polite, and I love engaging with new people. Let’s talk tech, games, or sports! Feel free to reach out. <br /> 
-💻 Check out my [portfolio](https://victor-palha.com)!
+I see programming as alchemy turning abstract ideas into tangible solutions. My journey began in 2021, and I've since:
+- Worked with established companies
+- Mastered the art of debugging ancient legacy code
+- Developed a healthy obsession with Phoenix LiveView (kinda healthy...)
+- Written [blog posts](https://victor-palha.github.io/) that mix tech insights with dry humor
 
-<br />
+**Philosophy:** *"Code should be like a good joke! efficient delivery, no unnecessary parts, and if you have to explain it, it's not good enough."*
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<h2 align='center'>Contact me</h2>
+## **Send a Raven (Contact)**
+<div align='center' style="margin-top: 20px;">
 
-<div align='center'>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-palha/)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victor-palha.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-palha/)
+[![Portfolio](https://img.shields.io/badge/-Explore_My_World-000000?style=for-the-badge&logo=react&logoColor=white)](https://victor-palha.com)
+[![Email](https://img.shields.io/badge/-Send_an_Owl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@victor-palha.com)
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer" alt="Magic wave"/>
