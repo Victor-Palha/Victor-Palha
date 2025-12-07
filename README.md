@@ -55,7 +55,7 @@ Blending creativity with logic to craft digital experiences that matter. Passion
   name: "Victor Palha",
   title: "FullStack Sorcerer",
   education: ["BSc in Computer Science", "MBA in Software Engineering"],
-  current_quest: "Freelance Adventures",
+  current_quest: "Mid-level Backend Software Engineer",
   next_level: "Elixir Archmage",
   traits: [:curious, :sarcastic],
   hobbies: [:gaming, :writing, :open_source],
