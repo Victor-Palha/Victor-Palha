@@ -55,7 +55,7 @@ Blending creativity with logic to craft digital experiences that matter. Passion
   name: "Victor Palha",
   title: "FullStack Sorcerer",
   education: ["BSc in Computer Science", "MBA in Software Engineering"],
-  current_quest: "Mid-level Backend Software Engineer",
+  current_quest: "Senior Backend Software Engineer",
   next_level: "Elixir Archmage",
   traits: [:curious, :sarcastic],
   hobbies: [:gaming, :writing, :open_source],
@@ -67,7 +67,6 @@ I see programming as alchemy turning abstract ideas into tangible solutions. My 
 - Worked with established companies
 - Mastered the art of debugging ancient legacy code
 - Developed a healthy obsession with Phoenix LiveView (kinda healthy...)
-- Written [blog posts](https://victor-palha.github.io/) that mix tech insights with dry humor
 
 **Philosophy:** *"Code should be like a good joke! efficient delivery, no unnecessary parts, and if you have to explain it, it's not good enough."*
 
